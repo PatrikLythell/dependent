@@ -1,7 +1,7 @@
 {
   "name": "dependent",
   "description": "Lazy dependency script for lazy developers compiling your node modules to a depencies.json",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/patriklythell/dependent",
   "author": {
     "name": "Patrik Lythell",
