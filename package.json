@@ -1,0 +1,32 @@
+{
+  "name": "dependent",
+  "description": "Lazy dependency script for lazy developers compiling your node modules to a depencies.json",
+  "version": "0.1.0",
+  "homepage": "https://github.com/patriklythell/dependent",
+  "author": {
+    "name": "Patrik Lythell",
+    "email": "patrik.lythell@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patriklythell/dependent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patriklythell/dependent/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/patriklythell/dependent/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "dependent",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "keywords": ["package management","package","dependencies","package.json","modules","module management"],
+  "preferGlobal": "true",
+  "bin": {
+    "dependent" : "dependent.js"
+  }
+}
