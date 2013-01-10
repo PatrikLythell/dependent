@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/patriklythell/dependent.git"
   },
+  "dependencies": {
+    "fs": "0.0.0"
+  },
   "bugs": {
     "url": "https://github.com/patriklythell/dependent/issues"
   },
