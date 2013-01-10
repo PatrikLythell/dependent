@@ -9,7 +9,17 @@ Only been tested in MacOSX (hey it's for lazy developers by a lazy developer, wh
 
 ## Installation
 
-Coming soon to NPM…
+Global install through NPM
+
+```
+npm install -g dependent
+```
+
+or 
+
+```
+sudo npm install -g dependent
+```
 
 ## Usage
 
